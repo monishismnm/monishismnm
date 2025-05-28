@@ -1,5 +1,6 @@
 [![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)](https://sites.google.com/lions.net/monishpolimetla/home)
 
+[![CompTIA Network+ Certified](https://raw.githubusercontent.com/monishismnm/scouting-reports/main/Certificates/comptia-network-ce-certification.1.png)](https://www.credly.com/badges/a8e94d4c-ff8b-4ba0-a1af-3e39b47b51f6/public_url)
 
 
 <!--
